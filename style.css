@@ -1,0 +1,23 @@
+* {
+	margin:0;
+	padding:0;
+	background-color: #CCCBBC;
+	font-family: sans-serif;
+	color: #fff;
+}
+
+form{
+	background-color: #636D61;
+	width: 174px;
+
+}
+form input[type=button]{
+	padding: 9px;
+	width: 39.5px;
+	background-color: #CDB60A;
+}
+form input[type=text]{
+	padding: 5px 1px;
+	background-color: #BC344D;
+}
+
